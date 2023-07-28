@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T09:20:27.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s9QT58-9YP3D30BqY2ub" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T09:20:36.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0k_bGNthNLyYP7XfXa5K" version="21.6.5" type="github">
   <diagram name="第 1 页" id="n-U-YmvTYSM-fmJBBucL">
     <mxGraphModel dx="2801" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1782,7 +1782,7 @@
             <mxRectangle width="185" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-454" value="明细查询界面" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-451">
+        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-454" value="明细查询界面操作" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-451">
           <mxGeometry x="335" width="265" height="56" as="geometry">
             <mxRectangle width="265" height="56" as="alternateBounds" />
           </mxGeometry>
