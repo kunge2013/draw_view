@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T09:34:24.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ul07FpL8mDlXfjsAVYh4" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-28T09:36:21.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SCe8skWVL_UCcLR4WL6_" version="21.6.5" type="github" pages="2">
   <diagram name="表结构" id="n-U-YmvTYSM-fmJBBucL">
-    <mxGraphModel dx="3328" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4444" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1450,7 +1450,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-377" value="bs_account_unusual(账户环比警异常明细列表)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-1635" y="910" width="550" height="369" as="geometry" />
+          <mxGeometry x="-1635" y="910" width="550" height="425" as="geometry" />
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-378" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="cg8lhy9p8JWAqFrbc6hZ-377" vertex="1">
           <mxGeometry y="30" width="550" height="34" as="geometry" />
@@ -1614,6 +1614,24 @@
             <mxRectangle width="215" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-377">
+          <mxGeometry y="369" width="550" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-2" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-1">
+          <mxGeometry width="150" height="56" as="geometry">
+            <mxRectangle width="150" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-3" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-1">
+          <mxGeometry x="150" width="185" height="56" as="geometry">
+            <mxRectangle width="185" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-4" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-1">
+          <mxGeometry x="335" width="215" height="56" as="geometry">
+            <mxRectangle width="215" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-459" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cg8lhy9p8JWAqFrbc6hZ-414" target="cg8lhy9p8JWAqFrbc6hZ-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1623,7 +1641,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-414" value="bs_acct_item_unusual(账目项环比警异常明细列表)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-1620" y="1520" width="600" height="376" as="geometry" />
+          <mxGeometry x="-1620" y="1520" width="600" height="432" as="geometry" />
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-415" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="cg8lhy9p8JWAqFrbc6hZ-414" vertex="1">
           <mxGeometry y="30" width="600" height="34" as="geometry" />
@@ -1787,6 +1805,24 @@
             <mxRectangle width="265" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-414">
+          <mxGeometry y="376" width="600" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-6" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-5">
+          <mxGeometry width="150" height="56" as="geometry">
+            <mxRectangle width="150" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-7" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-5">
+          <mxGeometry x="150" width="185" height="56" as="geometry">
+            <mxRectangle width="185" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-8" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-5">
+          <mxGeometry x="335" width="265" height="56" as="geometry">
+            <mxRectangle width="265" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-455" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t70ENiihxCGicLGJphek-1" target="cg8lhy9p8JWAqFrbc6hZ-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1826,6 +1862,9 @@
         </mxCell>
         <mxCell id="9n4EJ_AYST7XDu2waodm-4" value="缓存中获取集成&lt;br&gt;判断当前任务是&lt;br&gt;否在执行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="155" y="530" width="130" height="115.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9n4EJ_AYST7XDu2waodm-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
