@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T07:10:15.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nDj8YgThTvmy6smWjZWi" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T07:12:47.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J_iJpxpK88vs6-JWgL3V" version="21.6.5" type="github">
   <diagram name="第 1 页" id="n-U-YmvTYSM-fmJBBucL">
     <mxGraphModel dx="3341" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -695,7 +695,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-5" value="bs_warning_unusual(大额预警异常列表)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="110" width="580" height="686" as="geometry" />
+          <mxGeometry x="-460" y="110" width="580" height="644" as="geometry" />
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-5">
           <mxGeometry y="30" width="580" height="34" as="geometry" />
@@ -1017,24 +1017,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-77" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFB24D;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-74">
-          <mxGeometry x="335" width="245" height="42" as="geometry">
-            <mxRectangle width="245" height="42" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-5">
-          <mxGeometry y="644" width="580" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-79" value="amount_ym" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFB24D;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-78">
-          <mxGeometry width="150" height="42" as="geometry">
-            <mxRectangle width="150" height="42" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-80" value="调整月份" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFB24D;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-78">
-          <mxGeometry x="150" width="185" height="42" as="geometry">
-            <mxRectangle width="185" height="42" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-81" value="大屏监控(调整月数)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFB24D;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-78">
           <mxGeometry x="335" width="245" height="42" as="geometry">
             <mxRectangle width="245" height="42" as="alternateBounds" />
           </mxGeometry>
