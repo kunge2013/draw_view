@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T08:26:05.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kB6drJQ6EvWeykbxdaaf" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T08:26:18.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X3IRAK5piIKsDK7p7IHh" version="21.6.5" type="github">
   <diagram name="第 1 页" id="n-U-YmvTYSM-fmJBBucL">
     <mxGraphModel dx="3703" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1264,7 +1264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-170" value="bs_sequential_anomaly(环比异常)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="1169" width="550" height="422" as="geometry" />
+          <mxGeometry x="-460" y="1150" width="550" height="422" as="geometry" />
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-171" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-170">
           <mxGeometry y="30" width="550" height="34" as="geometry" />
