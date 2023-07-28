@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:21:00.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C61p1ELdfPACKrDQGm_-" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:21:25.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5wTD06gU04yNBCWGPDz2" version="21.6.5" type="github">
   <diagram name="第 1 页" id="n-U-YmvTYSM-fmJBBucL">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t70ENiihxCGicLGJphek-86" value="bs_retrospect_unusual(大额追溯异常列表)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="650" y="110" width="580" height="686" as="geometry" />
+          <mxGeometry x="650" y="110" width="580" height="644" as="geometry" />
         </mxCell>
         <mxCell id="t70ENiihxCGicLGJphek-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="t70ENiihxCGicLGJphek-86" vertex="1">
           <mxGeometry y="30" width="580" height="34" as="geometry" />
@@ -672,24 +672,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t70ENiihxCGicLGJphek-166" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-163" vertex="1">
-          <mxGeometry x="335" width="245" height="42" as="geometry">
-            <mxRectangle width="245" height="42" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V5Nr7WqjhkIVK3ETVaSL-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="t70ENiihxCGicLGJphek-86">
-          <mxGeometry y="644" width="580" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="V5Nr7WqjhkIVK3ETVaSL-2" value="email_notify_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="V5Nr7WqjhkIVK3ETVaSL-1">
-          <mxGeometry width="150" height="42" as="geometry">
-            <mxRectangle width="150" height="42" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V5Nr7WqjhkIVK3ETVaSL-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;电路代号&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="V5Nr7WqjhkIVK3ETVaSL-1">
-          <mxGeometry x="150" width="185" height="42" as="geometry">
-            <mxRectangle width="185" height="42" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V5Nr7WqjhkIVK3ETVaSL-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="V5Nr7WqjhkIVK3ETVaSL-1">
           <mxGeometry x="335" width="245" height="42" as="geometry">
             <mxRectangle width="245" height="42" as="alternateBounds" />
           </mxGeometry>
