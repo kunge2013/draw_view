@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T09:15:58.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2hdr8S0ELw5_SOrZrmkN" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T09:17:31.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="v6shbDFEELuW-HwpLNhF" version="21.6.5" type="github">
   <diagram name="第 1 页" id="n-U-YmvTYSM-fmJBBucL">
     <mxGraphModel dx="3703" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -914,7 +914,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-86" value="bs_warn_unusual(大额预警异常明细列表)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fillColor=#96FF9A;" vertex="1" parent="1">
-          <mxGeometry x="-414" y="1070" width="580" height="678" as="geometry" />
+          <mxGeometry x="-270" y="1090" width="580" height="678" as="geometry" />
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-86">
           <mxGeometry y="30" width="580" height="34" as="geometry" />
@@ -1264,7 +1264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-170" value="bs_sequential_anomaly(环比异常)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="970" width="550" height="458" as="geometry" />
+          <mxGeometry x="-890" y="960" width="550" height="458" as="geometry" />
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-171" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-170">
           <mxGeometry y="30" width="550" height="34" as="geometry" />
@@ -1428,8 +1428,16 @@
             <mxRectangle width="215" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-457" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=-0.218;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cg8lhy9p8JWAqFrbc6hZ-377" target="cg8lhy9p8JWAqFrbc6hZ-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-458" value="账户异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cg8lhy9p8JWAqFrbc6hZ-457">
+          <mxGeometry x="0.088" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-377" value="bs_account_unusual(账户环比警异常明细列表)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1635" y="970" width="550" height="369" as="geometry" />
+          <mxGeometry x="-1635" y="910" width="550" height="369" as="geometry" />
         </mxCell>
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-378" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-377">
           <mxGeometry y="30" width="550" height="34" as="geometry" />
@@ -1756,6 +1764,14 @@
         <mxCell id="cg8lhy9p8JWAqFrbc6hZ-454" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-451">
           <mxGeometry x="335" width="265" height="56" as="geometry">
             <mxRectangle width="265" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-455" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t70ENiihxCGicLGJphek-1" target="cg8lhy9p8JWAqFrbc6hZ-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg8lhy9p8JWAqFrbc6hZ-456" value="实列级异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cg8lhy9p8JWAqFrbc6hZ-455">
+          <mxGeometry x="0.0695" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
