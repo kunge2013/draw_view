@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:17:03.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cjypp-UqdxqqAd8oa3av" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:21:00.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C61p1ELdfPACKrDQGm_-" version="21.6.5" type="github">
   <diagram name="第 1 页" id="n-U-YmvTYSM-fmJBBucL">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
             <mxRectangle width="185" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t70ENiihxCGicLGJphek-134" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-131" vertex="1">
+        <mxCell id="t70ENiihxCGicLGJphek-134" value="大屏监控(电路代号)/异常订单量" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-131" vertex="1">
           <mxGeometry x="335" width="245" height="34" as="geometry">
             <mxRectangle width="245" height="34" as="alternateBounds" />
           </mxGeometry>
@@ -684,7 +684,7 @@
             <mxRectangle width="150" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V5Nr7WqjhkIVK3ETVaSL-3" value="邮件发送标识(0:未发宋；1已发送)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="V5Nr7WqjhkIVK3ETVaSL-1">
+        <mxCell id="V5Nr7WqjhkIVK3ETVaSL-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;电路代号&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="V5Nr7WqjhkIVK3ETVaSL-1">
           <mxGeometry x="150" width="185" height="42" as="geometry">
             <mxRectangle width="185" height="42" as="alternateBounds" />
           </mxGeometry>
