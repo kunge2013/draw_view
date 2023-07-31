@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T02:26:36.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A85jT0kSCB78-c0rBfDH" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-31T02:27:20.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="r_BdJADq7Fjrg2sxkYtv" version="21.6.6" type="github" pages="3">
   <diagram name="表结构" id="n-U-YmvTYSM-fmJBBucL">
     <mxGraphModel dx="3873" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,17 +525,17 @@
         <mxCell id="t70ENiihxCGicLGJphek-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="t70ENiihxCGicLGJphek-86" vertex="1">
           <mxGeometry y="296" width="580" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="t70ENiihxCGicLGJphek-120" value="order_nbr" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-119" vertex="1">
+        <mxCell id="t70ENiihxCGicLGJphek-120" value="order_nbr" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFB24D;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-119" vertex="1">
           <mxGeometry width="150" height="34" as="geometry">
             <mxRectangle width="150" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t70ENiihxCGicLGJphek-121" value="流水号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-119" vertex="1">
+        <mxCell id="t70ENiihxCGicLGJphek-121" value="流水号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFB24D;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-119" vertex="1">
           <mxGeometry x="150" width="185" height="34" as="geometry">
             <mxRectangle width="185" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t70ENiihxCGicLGJphek-122" value="大屏监控" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-119" vertex="1">
+        <mxCell id="t70ENiihxCGicLGJphek-122" value="大屏监控" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFB24D;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="t70ENiihxCGicLGJphek-119" vertex="1">
           <mxGeometry x="335" width="245" height="34" as="geometry">
             <mxRectangle width="245" height="34" as="alternateBounds" />
           </mxGeometry>
