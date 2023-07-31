@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T09:43:52.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-sx_ppoJCg4KXb2gBdMK" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-31T02:14:25.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j5ZfjGJoazBOoTg1ftFR" version="21.6.6" type="github" pages="3">
   <diagram name="表结构" id="n-U-YmvTYSM-fmJBBucL">
-    <mxGraphModel dx="4444" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4045" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,20 +331,20 @@
             <mxRectangle width="160" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="-cB73A4EHeu_b5DZWdjQ-1">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-cB73A4EHeu_b5DZWdjQ-1" vertex="1">
           <mxGeometry y="636" width="480" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-6" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-5">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-6" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-5" vertex="1">
           <mxGeometry width="150" height="34" as="geometry">
             <mxRectangle width="150" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-7" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-5">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-7" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-5" vertex="1">
           <mxGeometry x="150" width="170" height="34" as="geometry">
             <mxRectangle width="170" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-5">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-5" vertex="1">
           <mxGeometry x="320" width="160" height="34" as="geometry">
             <mxRectangle width="160" height="34" as="alternateBounds" />
           </mxGeometry>
@@ -648,20 +648,20 @@
             <mxRectangle width="245" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="t70ENiihxCGicLGJphek-86">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="t70ENiihxCGicLGJphek-86" vertex="1">
           <mxGeometry y="534" width="580" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-10" value="belong_ym" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-9">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-10" value="belong_ym" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-9" vertex="1">
           <mxGeometry width="150" height="34" as="geometry">
             <mxRectangle width="150" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-11" value="集成时的系统账期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-9">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-11" value="集成时的系统账期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-9" vertex="1">
           <mxGeometry x="150" width="185" height="34" as="geometry">
             <mxRectangle width="185" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-9">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-9" vertex="1">
           <mxGeometry x="335" width="245" height="34" as="geometry">
             <mxRectangle width="245" height="34" as="alternateBounds" />
           </mxGeometry>
@@ -1650,20 +1650,20 @@
             <mxRectangle width="215" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-377">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="cg8lhy9p8JWAqFrbc6hZ-377" vertex="1">
           <mxGeometry y="369" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-2" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-1">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-2" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="pyCPpVrHxf1bMTXE8W9j-1" vertex="1">
           <mxGeometry width="150" height="56" as="geometry">
             <mxRectangle width="150" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-3" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-1">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-3" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="pyCPpVrHxf1bMTXE8W9j-1" vertex="1">
           <mxGeometry x="150" width="185" height="56" as="geometry">
             <mxRectangle width="185" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-4" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-1">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-4" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="pyCPpVrHxf1bMTXE8W9j-1" vertex="1">
           <mxGeometry x="335" width="215" height="56" as="geometry">
             <mxRectangle width="215" height="56" as="alternateBounds" />
           </mxGeometry>
@@ -1841,38 +1841,38 @@
             <mxRectangle width="265" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-414">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="cg8lhy9p8JWAqFrbc6hZ-414" vertex="1">
           <mxGeometry y="376" width="600" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-6" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-5">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-6" value="unusual_flag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="pyCPpVrHxf1bMTXE8W9j-5" vertex="1">
           <mxGeometry width="150" height="56" as="geometry">
             <mxRectangle width="150" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-7" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-5">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-7" value="异常标识(0:是；1否)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="pyCPpVrHxf1bMTXE8W9j-5" vertex="1">
           <mxGeometry x="150" width="185" height="56" as="geometry">
             <mxRectangle width="185" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCPpVrHxf1bMTXE8W9j-8" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pyCPpVrHxf1bMTXE8W9j-5">
+        <mxCell id="pyCPpVrHxf1bMTXE8W9j-8" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="pyCPpVrHxf1bMTXE8W9j-5" vertex="1">
           <mxGeometry x="335" width="265" height="56" as="geometry">
             <mxRectangle width="265" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="cg8lhy9p8JWAqFrbc6hZ-414">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="cg8lhy9p8JWAqFrbc6hZ-414" vertex="1">
           <mxGeometry y="432" width="600" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-2" value="belong_ym" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-1">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-2" value="belong_ym" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-1" vertex="1">
           <mxGeometry width="150" height="56" as="geometry">
             <mxRectangle width="150" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-3" value="集成时的系统账期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-1">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-3" value="集成时的系统账期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-1" vertex="1">
           <mxGeometry x="150" width="185" height="56" as="geometry">
             <mxRectangle width="185" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaM6A0Zw-7WX_00jUzn6-4" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="FaM6A0Zw-7WX_00jUzn6-1">
+        <mxCell id="FaM6A0Zw-7WX_00jUzn6-4" value="用于明细处理状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="FaM6A0Zw-7WX_00jUzn6-1" vertex="1">
           <mxGeometry x="335" width="265" height="56" as="geometry">
             <mxRectangle width="265" height="56" as="alternateBounds" />
           </mxGeometry>
@@ -1893,32 +1893,46 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kaJ0FUatseqjgptuGy6z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaJ0FUatseqjgptuGy6z-3" target="kaJ0FUatseqjgptuGy6z-4">
+        <mxCell id="kaJ0FUatseqjgptuGy6z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kaJ0FUatseqjgptuGy6z-3" target="kaJ0FUatseqjgptuGy6z-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kaJ0FUatseqjgptuGy6z-3" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="kaJ0FUatseqjgptuGy6z-3" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="170" y="90" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kaJ0FUatseqjgptuGy6z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaJ0FUatseqjgptuGy6z-4" target="kaJ0FUatseqjgptuGy6z-6">
+        <mxCell id="kaJ0FUatseqjgptuGy6z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kaJ0FUatseqjgptuGy6z-4" target="kaJ0FUatseqjgptuGy6z-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kaJ0FUatseqjgptuGy6z-4" value="定时任务触发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kaJ0FUatseqjgptuGy6z-4" value="定时任务触发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="230" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9n4EJ_AYST7XDu2waodm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kaJ0FUatseqjgptuGy6z-6" target="9n4EJ_AYST7XDu2waodm-4">
+        <mxCell id="9n4EJ_AYST7XDu2waodm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kaJ0FUatseqjgptuGy6z-6" target="9n4EJ_AYST7XDu2waodm-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kaJ0FUatseqjgptuGy6z-6" value="获取当前账期" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kaJ0FUatseqjgptuGy6z-6" value="获取当前账期" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="380" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9n4EJ_AYST7XDu2waodm-3" value="&lt;h1&gt;集成账户告警&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9n4EJ_AYST7XDu2waodm-3" value="&lt;h1&gt;集成账户告警&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="30" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9n4EJ_AYST7XDu2waodm-4" value="缓存中获取集成&lt;br&gt;判断当前任务是&lt;br&gt;否在执行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="9n4EJ_AYST7XDu2waodm-4" value="缓存中获取集成&lt;br&gt;判断当前任务是&lt;br&gt;否在执行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="155" y="530" width="130" height="115.5" as="geometry" />
         </mxCell>
-        <mxCell id="9n4EJ_AYST7XDu2waodm-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9n4EJ_AYST7XDu2waodm-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="690" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Fx0WAAJKf87S0MXs6ImB" name="数据集成sql">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4lAwW61Lg2XhNTi49p4u-2" value="&lt;div&gt;SELECT&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; prod_inst_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cust_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acct_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ( SELECT cust_name FROM customer C WHERE C.cust_id = A.cust_id ) cust_name,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ( SELECT acct_name FROM account d WHERE d.acct_id = A.acct_id ) acct_name,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ( SELECT prod_name FROM product P WHERE P.prod_id = A.prod_id ) prod_name,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; order_nbr,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acc_num,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cycle_type,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; rmb_amount,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; rmb_bill,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; bill_ym cust_ym&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; FROM&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SELECT&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; bill_ym,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; prod_Inst_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cust_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acct_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; prod_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acc_num,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cycle_type,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; order_nbr,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SUM ( rmb_amount ) rmb_amount,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SUM ( rmb_bill ) rmb_bill,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SUM ( rmb_bill ) * 10 diff&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; FROM&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acct_item&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; WHERE&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; org_id = &#39;DXJT0000&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AND trust_flag = &#39;0&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AND belong_org = &#39;607&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AND bill_ym = to_char( now( ), &#39;yyyymm&#39; )&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; GROUP BY&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; bill_ym,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; prod_Inst_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cust_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acct_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; prod_id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acc_num,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cycle_type,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; order_nbr&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ) A&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; WHERE&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ABS ( rmb_amount ) &amp;gt; ABS ( diff )&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AND rmb_bill != 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and prod_inst_id not in (select prod_inst_id from bs_retrospect_unusual where to_char(create_date, &#39;yyyymm&#39;) = to_char( now( ), &#39;yyyymm&#39; ))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="670" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="4lAwW61Lg2XhNTi49p4u-5" value="bs_retrospect_unusual&lt;br&gt;数据集成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
